@@ -1,11 +1,7 @@
 {
-  "posts": [
+  "TWVnYW5lYnVrLm5ldCBEb3dubG9hZGVy": [
     {
-      "id": 1,
-      "title": "hello"
+      "version": 1.0,
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
