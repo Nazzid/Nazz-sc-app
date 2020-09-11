@@ -14,6 +14,17 @@
    "Q29taWMgRG93bmxvYWRlciB8IChCYXRjaCk=":
    {
       "version":"1.5",
-      "url":"https://pastebin.com/raw/TjAf73rE"
+      "url":"https://pastebin.com/raw/TjAf73rE",
+      "web":[
+         {
+            "https://pastebin.com/3ttavcwU"
+         },
+         {
+            "https://pastebin.com/VJCTfFKb"
+         },
+         {
+            "https://pastebin.com/vMawwYW6"
+         }
+      ]
    }
 }
